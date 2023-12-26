@@ -64,7 +64,7 @@ async def main():
     api_id = '20683998'
     api_hash = '5ac53baa5f37fda3a03e172d3ccba45d'
 
-    gc = gspread.service_account(filename='teltgram_bot_ads/ads_maneger/sylvan-overview-408508-2f1a257b96de.json')
+    gc = gspread.service_account(filename='sylvan-overview-408508-2f1a257b96de.json')
     google_sheets_url = 'https://docs.google.com/spreadsheets/d/1k953noZq8hTZLItKZLJtDZWPPJ0wLkX2Y6zlHJZiC3w/edit?usp=sharing'
     tracked_posts_sheet_name = 'TrackedPosts'
     advertisers_sheet_name = 'Advertisers'
