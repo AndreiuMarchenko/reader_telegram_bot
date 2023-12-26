@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sylvan-overview-408508",
+  "private_key_id": "2f1a257b96de0e5bb7682916f64dc502fc78a1df",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7qEdpnE1dsete\nBZzGdRR+ZDAP4BRaonN3d5fa7n0aqikcTeX0Yli+RbxztZk4uZ+L1abb0BVVj5/n\nnq00/0hxbRwc0UeFI6kuNfMvGeN9xc9DJFb3PmCGAqMcMyoiZFS7DV/bWa0QKxSe\nmCWAsiJsVouxfDEcxp5ztovg5pTRNARCUt1L6KFXoGaSYiwV0scdc8V2AJqvwqQ3\njvqZY0RDO1XSvCQ1u64DOgHFp0d/oPczYDF0UTNSWXEyYxh2UNOJ+rfRxqc1MQpx\nkiX1t4xV4mJEMGvfqYIL4Gm1JnjuthVeSItZKGGGpqq2teI2K7sHtIpzir7+fw/K\nSlCQl7GHAgMBAAECggEACacHPVRv2lDrhWOOg9rD2hh3LGnfQiY3AD8jjXxU7Qkx\noiYTnPVuESNvJRiDMBrELSIpOgdDAaqok/ZifGZhKIxvNMBDCIMkEZ9uyc5wGCkT\nlyWIX6FSv7HlB+9NzIUSoqh2dMbxEvLUVbAHxc3j3WS6PL/hmtRQlC0glsnlf7kx\nrnxRPgqm4ylS3ORsITbKlHohL45BicLadMn3BIZjPtACb/2LAEx+g7z+hvEg7BsC\npMdIWXcItxX26dWj5wiGOhp6FjZ4bx7f3y+JlKbgs1xJMYbWAdxg0P9Y9vc58V1m\n47ENzIbhZR2we2mZfJ5Y9DwlUV+7+VVC4DdBud4GAQKBgQDcQFfZW6C8DrxPN733\nwLrnaGk+nFq3Ln1g7crh7/CwK4JZ09Ah1RWt8q6cKMp6kwEDYlpvmRMzXlZFSKot\nT6doiWNwDNHX2iwlbK2LPhvsQEtRAkBv8IqM6BodhyeiDR9hGd3vREOcKfeDRqjI\ngVUkBa5Nqh7vOkBjUTvaMXrDAQKBgQDaHZ+aH9QW9wJ3VANILkr/lRd2ZQswIQXC\nSkP/Qpdtf75bdGfLjz028/OlGuBN2xZdZEeDYBx+6zo6vKWSx4zYFUUFWANq6l+4\nvY1w29+RB54p8/Fi7yrnq2TxZ8XQYZm49/KCJC6rFiC3uDCSqkt/MaHgU3q+5wIh\n1770p0bchwKBgQDXHOCwIZWzFpFEraSUPWBOcuOXiw3uqzE5YgYs9TOWXGhLY1x8\nLqml4sg3LH/Vh44NyBmbtV3TZefMc1QCPTG8H7NG1L5+m09SnfpBbL/I1mK5FAHr\nUnt/c5FOFZrX4wkqxSDFd16xPyvGw1RFwEtvizzaDbV44OPSHJzgVkMYAQKBgEwK\nh9nzvr1C4Fk5sOs5OGxiTgu4rm3ZFWjm+03CqYhDQNohew48odrGseqdtBVwjBuD\nGmty1nxpBaP0oMTLTQ8IW0fBp29exoBhlS4Dea3WOg3mPgF/4DVkS4zd4NkFLdKO\nnr1AYATFciKa1FRNioSNiSHr+J8VamjiDnC84LeBAoGBAKAz1gGzui6IsxnEIoqw\n6H9Fr32e7qlTiHAL3+t27JR8zNOs2Su1wVE5HL0jncgpLN1WmlrC/d0zoF2ZV+vn\nkKuvXX1ofHxG+UwrAGQo0CRJihry0kFjcEU/Rcc027V1rjQB3hkCLd11LfK5TRyJ\nXtksB3lrEvknVbG5JF60nZar\n-----END PRIVATE KEY-----\n",
+  "client_email": "ads-bot@sylvan-overview-408508.iam.gserviceaccount.com",
+  "client_id": "115945186153787749588",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ads-bot%40sylvan-overview-408508.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
